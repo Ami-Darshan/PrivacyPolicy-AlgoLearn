@@ -22,7 +22,7 @@ We may update this privacy policy periodically to reflect changes in our practic
 
 ### Contact Us
 
-If you have any questions or concerns about this privacy policy, please contact us at [email@example.com](mailto:pdldarshan008@gmail.com).
+If you have any questions or concerns about this privacy policy, please contact us at [pdldarshan008@gmail.com](mailto:pdldarshan008@gmail.com).
 
 ---
 
