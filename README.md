@@ -6,11 +6,6 @@
 
 AlgoLearn is committed to protecting your privacy and ensuring a secure and enjoyable learning experience. This privacy policy outlines how we collect, use, and safeguard your personal information.
 
-### Information We Collect
-
-- **Personal Information**: We may collect personal details like your name, email address, and other relevant information when you register or interact with the platform.
-- **Usage Data**: We may collect data about your usage patterns to enhance your learning experience and improve our services.
-
 ### How We Use Information
 
 - To provide and maintain the learning platform.
